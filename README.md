@@ -114,6 +114,11 @@ SUBSCRIBE news
 ✅ Follow consistent code style  
 ✅ Write test cases for new features
 
+## 📸 Results Screenshot
+
+![Results](https://github.com/Bharath5050/Redis_Clone_Project/blob/main/Output.png)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
